@@ -50,7 +50,7 @@ JavaScript.
 
 ---
 
-### :computer: Some code:
+# :computer: Some code:
 
 :bulb:There is my small projects:
 
