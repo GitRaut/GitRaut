@@ -11,14 +11,14 @@
 <p align="center">Hi, I'm a beginer in develoing</p>
 
 ---
-### :man_technologist: About Me:
+## :man_technologist: About Me:
 I'm just a studen who want to learm something new.
 - :zap: In my free time I'd like to do my own small projects;
 - :video_game: I'm interested in GameDev;
 - :seedling: A student of the 10th IT class;
 - :books: I wish to learn new things;
 
-### :notebook: Expirence:
+## :notebook: Expirence:
 - :green_book: Experience in developing games on various game
 engines (Unity, Unreal Engine), as well as writing games from
 scratch.
