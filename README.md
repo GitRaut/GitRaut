@@ -18,6 +18,17 @@ I'm just a studen who want to learm something new.
 - :seedling: A student of the 10th IT class;
 - :books: I wish to learn new things;
 
+### :notebook: Expirence:
+- :green_book: Experience in developing games on various game
+engines (Unity, Unreal Engine), as well as writing games from
+scratch.
+-  :blue_book: Experience in developing bots for the platform
+Discord.
+- :closed_book: Experience in website layout (HTML/CSS) and experience in
+creating Ruby On Rails applications using
+JavaScript.
+- :orange_book: Creating websites with the help of designers (Tilda).
+
 ---
 
 ### :fire: My Stats:
