@@ -49,13 +49,3 @@ JavaScript.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitRaut&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-# :computer: Some code:
-
-:bulb:There is my small projects:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GitRaut&repo=shtuki&theme=midnight-purple)](https://github.com/GitRaut/shtuki)
-
-:computer:There some C# things:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GitRaut&repo=HomeWork&theme=midnight-purple)](https://github.com/GitRaut/HomeWork)
